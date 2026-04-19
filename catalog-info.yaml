@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: paginator-java
+  annotations:
+    github.com/project-slug: joaolsouzajr/paginator-java
+spec:
+  type: other
+  lifecycle: unknown
+  owner: myorg
